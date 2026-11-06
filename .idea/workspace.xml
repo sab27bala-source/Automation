@@ -1,4 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95e28ca3-16de-4482-8ca0-6b6e9b81f861" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="7" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3354750576277774" />
+      <entry key="MS500" value="3.611907765190092" />
+      <entry key="S2" value="6.738815920312278" />
+      <entry key="S5" value="8.17718393732477" />
+      <entry key="S10" value="10.212432033855853" />
+      <entry key="S30" value="18.247831520903095" />
+      <entry key="S60" value="23.83667600262843" />
+      <entry key="M2" value="27.846075140814243" />
+      <entry key="M5" value="30.780736485443356" />
+      <entry key="M10" value="31.86217014234774" />
+      <entry key="M15" value="32.235029896122896" />
+      <entry key="M30" value="32.6142679774796" />
+      <entry key="H1" value="32.806314935745924" />
+      <entry key="H2" value="32.9029517833591" />
+      <entry key="H4" value="32.95142435492257" />
+      <entry key="D1" value="32.99189689143474" />
+      <entry key="W1" value="32.99884223739773" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2708031464898688" />
+      <entry key="MS500" value="3.567167789540855" />
+      <entry key="S2" value="6.714486626908269" />
+      <entry key="S5" value="8.11907712555539" />
+      <entry key="S10" value="10.088943181664657" />
+      <entry key="S30" value="18.117558610402174" />
+      <entry key="S60" value="23.74691594510433" />
+      <entry key="M2" value="27.793058545576855" />
+      <entry key="M5" value="30.757249327920718" />
+      <entry key="M10" value="31.850015291414575" />
+      <entry key="M15" value="32.22683280350884" />
+      <entry key="M30" value="32.61012186986356" />
+      <entry key="H1" value="32.80422987160182" />
+      <entry key="H2" value="32.901906233568035" />
+      <entry key="H4" value="32.950900823696976" />
+      <entry key="D1" value="32.99180953102295" />
+      <entry key="W1" value="32.99882975476027" />
+    </decayedShown>
+  </component>
   <component name="PropertiesComponent">{}</component>
+  <component name="TaskManager">
+    <servers />
+  </component>
 </project>
